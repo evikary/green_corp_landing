@@ -264,6 +264,7 @@ button {
 }
 
 .form label {
+  margin-bottom: 5px;
   font-size: 18px;
   font-weight: 600px;
 }
@@ -275,6 +276,7 @@ button {
 
 .form input,
 .form select {
+  padding: 0 0 0 10px;
   font-size: 18px;
   color: #213053;
   height: 60px;
